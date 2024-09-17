@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maxim\\Desktop\\MAXIM\\\u041A\u041B\u0410\u0421\u0421\u042B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5728494F-D6D6-4C78-84B9-5E96F407377B}|\u041A\u041B\u0410\u0421\u0421\u042B.vcxproj|C:\\Users\\maxim\\Desktop\\MAXIM\\\u041A\u041B\u0410\u0421\u0421\u042B\\\u041A\u041B\u0410\u0421\u0421\u042B.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5728494F-D6D6-4C78-84B9-5E96F407377B}|\u041A\u041B\u0410\u0421\u0421\u042B.vcxproj|solutionrelative:\u041A\u041B\u0410\u0421\u0421\u042B.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5728494F-D6D6-4C78-84B9-5E96F407377B}|\u041A\u041B\u0410\u0421\u0421\u042B.vcxproj|C:\\Users\\maxim\\Desktop\\MAXIM\\\u041A\u041B\u0410\u0421\u0421\u042B\\\u041A\u041B\u0410\u0421\u0421\u042B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5728494F-D6D6-4C78-84B9-5E96F407377B}|\u041A\u041B\u0410\u0421\u0421\u042B.vcxproj|solutionrelative:\u041A\u041B\u0410\u0421\u0421\u042B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u041A\u041B\u0410\u0421\u0421\u042B.h",
+              "DocumentMoniker": "C:\\Users\\maxim\\Desktop\\MAXIM\\\u041A\u041B\u0410\u0421\u0421\u042B\\\u041A\u041B\u0410\u0421\u0421\u042B.h",
+              "RelativeDocumentMoniker": "\u041A\u041B\u0410\u0421\u0421\u042B.h",
+              "ToolTip": "C:\\Users\\maxim\\Desktop\\MAXIM\\\u041A\u041B\u0410\u0421\u0421\u042B\\\u041A\u041B\u0410\u0421\u0421\u042B.h",
+              "RelativeToolTip": "\u041A\u041B\u0410\u0421\u0421\u042B.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-06T21:47:43.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u041A\u041B\u0410\u0421\u0421\u042B.cpp",
+              "DocumentMoniker": "C:\\Users\\maxim\\Desktop\\MAXIM\\\u041A\u041B\u0410\u0421\u0421\u042B\\\u041A\u041B\u0410\u0421\u0421\u042B.cpp",
+              "RelativeDocumentMoniker": "\u041A\u041B\u0410\u0421\u0421\u042B.cpp",
+              "ToolTip": "C:\\Users\\maxim\\Desktop\\MAXIM\\\u041A\u041B\u0410\u0421\u0421\u042B\\\u041A\u041B\u0410\u0421\u0421\u042B.cpp",
+              "RelativeToolTip": "\u041A\u041B\u0410\u0421\u0421\u042B.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-06T21:47:25.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

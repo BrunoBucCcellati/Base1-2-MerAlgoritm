@@ -1,0 +1,4 @@
+﻿  ФУНКЦИИ.cpp
+     Создается библиотека C:\Users\maxim\Desktop\MAXIM\ФУНКЦИИ\x64\Debug\ФУНКЦИИ.lib и объект C:\Users\maxim\Desktop\MAXIM\ФУНКЦИИ\x64\Debug\ФУНКЦИИ.exp
+LINK : warning LNK4232: имя ФУНКЦИИ.dll содержит не ASCII символы, DLL нельзя будет загрузить в систему с кодовой страницей ANSI, отличной от 1251
+  ФУНКЦИИ.vcxproj -> C:\Users\maxim\Desktop\MAXIM\ФУНКЦИИ\x64\Debug\ФУНКЦИИ.dll

@@ -1,0 +1,4 @@
+﻿  КЛАССЫ.cpp
+  ФУНКЦИИ.cpp
+  АЛГОРИТМ.cpp
+C:\Users\maxim\Desktop\MAXIM\АЛГОРИТМ\АЛГОРИТМ.cpp(3,10): error C1083: Не удается открыть файл включение: КЛАССЫ.h: No such file or directory,

@@ -1,0 +1,4 @@
+﻿  КЛАССЫ.cpp
+     Создается библиотека C:\Users\maxim\Desktop\MAXIM\КЛАССЫ\x64\Debug\КЛАССЫ.lib и объект C:\Users\maxim\Desktop\MAXIM\КЛАССЫ\x64\Debug\КЛАССЫ.exp
+LINK : warning LNK4232: имя КЛАССЫ.dll содержит не ASCII символы, DLL нельзя будет загрузить в систему с кодовой страницей ANSI, отличной от 1251
+  КЛАССЫ.vcxproj -> C:\Users\maxim\Desktop\MAXIM\КЛАССЫ\x64\Debug\КЛАССЫ.dll
