@@ -3,7 +3,7 @@
 //
 void Otrezok::ChangeCharacteristic(double m, double _N)
 {
-    HINSTANCE load_function = LoadLibrary(L"ÔÓÍĘÖČČ.dll");
+    HINSTANCE load_function = LoadLibrary(L"ФУНКЦИИ.dll");
     typedef double (*characteristic) (double, double, double, double, double, double);
     characteristic Characteristic = (characteristic)GetProcAddress(load_function, "Characteristic");
     R = Characteristic(m, start->first, end->first, start->second, end->second, _N);
